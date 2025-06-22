@@ -24,7 +24,7 @@ const IndexPage: React.FC = () => {
   }, []);
 
   return (
-    <div className="bg-background min-h-screen font-sans text-foreground">
+    <div className="dark bg-background min-h-screen font-sans text-foreground">
       <TopHeader />
       {/* 
         Main content area layout. 
